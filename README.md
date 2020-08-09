@@ -89,7 +89,7 @@ you can key in `x` or say `球速設定` in Chinese to `set the ball velocity`
 you can key in `c` or say `位置設定` in Chinese to `set the ball position`  
 you can key in `space` or say `開始投球` in Chinese to `let ball be throwed to you`  
   
-The info which is white on the Bottom Right Corner is the setting you set now  
+The info which is white on the Bottom Right Corner is the setting you set now.  
 At the beginning,  
 the ball pitch is Straight ball  
 the ball velocity is random  
@@ -99,7 +99,7 @@ The velocity which is red on the Upper Right Corner is the velocity of this pitc
 At the beginning,  it will display 178  
   
 #### Ball pitch setting
-You can set ball pitch by keying in `z` or say `球種設定` in Chinese  
+You can set ball velocity by keying in `z` or say `球種設定` in Chinese  
 Now, we only have Straight ball  
 You can key in `1` or say `設定直球` in Chinese to set `Straight ball`  
 You can key in `q` or say `取消設定` in Chinese to `quit setting`  
