@@ -1,6 +1,7 @@
 # ARC---Sport-at-home
 
 * [Introduction](#introduction)
+* [Demo Link](#demo-link)
 * [System Architecture](#system-architecture)
 * [Hardware and Software Setup](#hardware-and-software-setup)
 	* [Hardware Setup](#hardware-setup)
@@ -16,7 +17,8 @@
 
 ## Introduction
 This project tited **Sport , at home** is designed to allow batters to practice indoors during the Coronavirus Outbreak which combines ARC IOTDK to implement voice recognition to operate the game interface , KINECT V2 to detect batters' motions and UNITY to create a simple 3D baseball game.
-
+## Demo Link 
+[Click here](https://v.youku.com/v_show/id_XNDc5MDEwMjUwNA==.html)  
 
 ## System Architecture
 ![system_architecture](images/system_architecture.png)  
