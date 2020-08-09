@@ -49,10 +49,10 @@ The Software requirements are as below:
 2.	Installing [Environmental Settings for ARC IoTDK](https://docs.google.com/presentation/d/1IZgiAmwunmWSda6N9_mpmO7g144-W_fN/edit#slide=id.p1)  
 3.	Installing [Kinect for Windows SDK 2.0](https://www.microsoft.com/en-us/download/details.aspx?id=44561)
 ### HardWare Environment
-1.	Connecting ARC & INMP441
+1.	Connecting INMP441 to ARC
 ![INMP441_pins](images/INMP441_pins.png)
-2.	Connecting ARC **(Dataport)** & PC by `Micro USB To USB`
-3.	Connecting Kinect V2 & PC, then you can test it by `Kinect for Windows SDK 2.0` to confirm whether it works fine  
+2.	Connecting ARC **(Dataport)** to PC by `Micro USB To USB`
+3.	Connecting Kinect V2 to PC, then you can test it by `Kinect for Windows SDK 2.0` to confirm whether it works fine  
 ![Kinect_v2_sdk](images/Kinect_v2_sdk.png)
 ### Download Source Code
 1.	Downloading `Unity_package` from github
