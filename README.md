@@ -13,6 +13,10 @@
 	* [Run Code](#run-code)
 		* [embARC](#embarc)
 		* [Unity](#unity)
+	* [How to play?](#how-to-play)
+		* [Ball pitch setting](#ball-pitch-setting)
+		* [Ball velocity setting](#ball-velocity-setting)
+		* [Ball position setting](#ball-position-setting)
 * [Problem](#problem)
 
 ## Introduction
@@ -76,6 +80,64 @@ The Software requirements are as below:
 7.	Click Run ! (You can click `Maximize` to maximize the game window, or Click `Maximize On Play` before Click Run)  
 ![run_max](images/run_max.png)
 
+### How to play?
+The list on the left is the instructions that you can release, you can use keyboard or voice to release it.  
+Example :  
+At the beginning,  
+you can key in `z` or say `球種設定` in Chinese to control the ball pitch  
+you can key in `x` or say `球速設定` in Chinese to control the ball velocity  
+you can key in `c` or say `位置設定` in Chinese to control the ball position  
+you can key in `space` or say `開始投球` in Chinese to let ball be throwed to you  
+  
+The info which is white on the Bottom Right Corner is the setting you set now  
+At the beginning,  
+the ball pitch is staight  
+the ball velocity is random  
+the ball position is random  
+  
+The velocity which is red on the Upper Right Corner is the velocity of this pitch, it will change followed by the next ball pitched immediately.  
+At the beginning,  it will display 178.  
+  
+#### Ball pitch setting
+You can set ball pitch by keying in `z` or say `球種設定` in Chinese  
+Now, we only have Straight ball  
+You can key in `1` or say `設定直球` in Chinese to set `Straight ball`
+You can key in `q` or say `取消設定` in Chinese to `quit setting`  
+Initially, it is set `Straight ball`  
+  
+#### Ball velocity setting
+You can set ball pitch by keying in `x` or say `球速設定` in Chinese 
+We totally have 10 segments can be chose  
+You can key in `0` or say `一百公里` in Chinese to set velocity between `100 ~ 109 km/h`  
+You can key in `1` or say `一百一十` in Chinese to set velocity between `110 ~ 119 km/h`  
+You can key in `2` or say `一百二十` in Chinese to set velocity between `120 ~ 129 km/h`  
+You can key in `3` or say `一百三十` in Chinese to set velocity between `130 ~ 139 km/h`  
+You can key in `4` or say `一百四十` in Chinese to set velocity between `140 ~ 149 km/h`  
+You can key in `5` or say `一百五十` in Chinese to set velocity between `150 ~ 159 km/h`  
+You can key in `6` or say `一百六十` in Chinese to set velocity between `160 ~ 169 km/h`  
+You can key in `7` or say `一百七十` in Chinese to set velocity between `170 ~ 179 km/h`  
+You can key in `8` or say `一百八十` in Chinese to set velocity between `180 ~ 189 km/h`  
+You can key in `9` or say `一百九十` in Chinese to set velocity between `190 ~ 199 km/h`  
+You can key in `r` or say `隨機設定` in Chinese to set velocity `random` which is between `100 ~ 199 km/h`  
+You can key in `q` or say `取消設定` in Chinese to `quit setting`  
+Initially, it is set `random`  
+  
+#### Ball position setting
+You can set ball position by keying in `c` or say `位置設定` in Chinese 
+We totally have 9 grids can be chose   
+You can key in `1` or say `一號位置` in Chinese to set position at `Upper Left Corner`  
+You can key in `2` or say `二號位置` in Chinese to set position at `Upper`  
+You can key in `3` or say `三號位置` in Chinese to set position at `Upper Right Corner`  
+You can key in `4` or say `四號位置` in Chinese to set position at `Left`  
+You can key in `5` or say `五號位置` in Chinese to set position at `Middle`  
+You can key in `6` or say `六號位置` in Chinese to set position at `Right`  
+You can key in `7` or say `七號位置` in Chinese to set position at `Bottom Left Corner`  
+You can key in `8` or say `八號位置` in Chinese to set position at `Bottom`  
+You can key in `9` or say `九號位置` in Chinese to set position at `Bottom Right Corner`  
+You can key in `r` or say `隨機設定` in Chinese to set position `random`  
+You can key in `q` or say `取消設定` in Chinese to `quit setting`  
+Initially, it is set `random`  
+  
 ## Problem
 IF you have problem like below image, please check which `COM?` is your ARC connecting with PC, then Double Click Script -> adforce to revise `COM3` to your `COM?`  
 ![problem_COM3.png](images/problem_COM3.png)
