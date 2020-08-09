@@ -52,7 +52,7 @@ The Software requirements are as below:
 1.	Connecting ARC & INMP441
 ![INMP441_pins](images/INMP441_pins.png)
 2.	Connecting ARC **(Dataport)** & PC by `Micro USB To USB`
-3.	Connecting Kinect V2 & PC, then you can test it by `Kinect for Windows SDK 2.0` for confirming it works fine    
+3.	Connecting Kinect V2 & PC, then you can test it by `Kinect for Windows SDK 2.0` to confirm whether it works fine  
 ![Kinect_v2_sdk](images/Kinect_v2_sdk.png)
 ### Download Source Code
 1.	Installing `Unity_package` from github
