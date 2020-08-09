@@ -84,29 +84,29 @@ The Software requirements are as below:
 The list on the left is the instructions that you can release, you can use keyboard or voice to release it.  
 Example :  
 At the beginning,  
-you can key in `z` or say `球種設定` in Chinese to control the ball pitch  
-you can key in `x` or say `球速設定` in Chinese to control the ball velocity  
-you can key in `c` or say `位置設定` in Chinese to control the ball position  
-you can key in `space` or say `開始投球` in Chinese to let ball be throwed to you  
+you can key in `z` or say `球種設定` in Chinese to `set the ball pitch`  
+you can key in `x` or say `球速設定` in Chinese to `set the ball velocity`  
+you can key in `c` or say `位置設定` in Chinese to `set the ball position`  
+you can key in `space` or say `開始投球` in Chinese to `let ball be throwed to you`  
   
 The info which is white on the Bottom Right Corner is the setting you set now  
 At the beginning,  
-the ball pitch is staight  
+the ball pitch is Straight ball  
 the ball velocity is random  
 the ball position is random  
   
 The velocity which is red on the Upper Right Corner is the velocity of this pitch, it will change followed by the next ball pitched immediately.  
-At the beginning,  it will display 178.  
+At the beginning,  it will display 178  
   
 #### Ball pitch setting
 You can set ball pitch by keying in `z` or say `球種設定` in Chinese  
 Now, we only have Straight ball  
-You can key in `1` or say `設定直球` in Chinese to set `Straight ball`
+You can key in `1` or say `設定直球` in Chinese to set `Straight ball`  
 You can key in `q` or say `取消設定` in Chinese to `quit setting`  
 Initially, it is set `Straight ball`  
   
 #### Ball velocity setting
-You can set ball pitch by keying in `x` or say `球速設定` in Chinese 
+You can set ball pitch by keying in `x` or say `球速設定` in Chinese  
 We totally have 10 segments can be chose  
 You can key in `0` or say `一百公里` in Chinese to set velocity between `100 ~ 109 km/h`  
 You can key in `1` or say `一百一十` in Chinese to set velocity between `110 ~ 119 km/h`  
@@ -123,7 +123,7 @@ You can key in `q` or say `取消設定` in Chinese to `quit setting`
 Initially, it is set `random`  
   
 #### Ball position setting
-You can set ball position by keying in `c` or say `位置設定` in Chinese 
+You can set ball position by keying in `c` or say `位置設定` in Chinese  
 We totally have 9 grids can be chose   
 You can key in `1` or say `一號位置` in Chinese to set position at `Upper Left Corner`  
 You can key in `2` or say `二號位置` in Chinese to set position at `Upper`  
