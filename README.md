@@ -75,5 +75,5 @@ The Software requirements are as below:
 ![run_max](images/run_max.png)
 
 ## Problem
-IF you have problem like below image, please check which `COM?` is your ARC connecting with PC, then Double Click Script -> adforce to revised to your `COM?`  
+IF you have problem like below image, please check which `COM?` is your ARC connecting with PC, then Double Click Script -> adforce to revise `COM3` to your `COM?`  
 ![problem_COM3.png](images/problem_COM3.png)
