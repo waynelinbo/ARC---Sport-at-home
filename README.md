@@ -39,7 +39,7 @@ The Software requirements are as below:
 1.	Connecting ARC & INMP441
 ![INMP441_pins](image/INMP441_pins.png)
 2.	Connecting ARC **(Dataport)** & PC by `Micro USB To USB`
-3.	Connecting Kinect V2 & PC, then you can test it by `Kinect for Windows SDK 2.0` for confirming it works fine
+3.	Connecting Kinect V2 & PC, then you can test it by `Kinect for Windows SDK 2.0` for confirming it works fine    
 ![Kinect_v2_sdk](image/Kinect_v2_sdk.png)
 ### Download Source Code
 1.	Installing `Unity_package` from github
@@ -52,17 +52,17 @@ The Software requirements are as below:
 4.	Click `ok` and wait a second
 5.	Click `run`
 ####  Unity
-1.	Open `Unity Hub` to create a new 3D repository
+1.	Open `Unity Hub` to create a new 3D repository  
 ![Unity_hub](image/Unity_hub.png)
-2.	Click Assets -> Import Package -> Custom Package
+2.	Click Assets -> Import Package -> Custom Package  
 ![Unity_package](image/Unity_package.png)
-3.	Open Sport_at_home.unitypackage
+3.	Open Sport_at_home.unitypackage  
 ![Import_package](image/Import_package.png)
-4.	Import All
+4.	Import All  
 ![Import_all](image/Import_all.png)
-5.	Double Click Scenes -> Baseball, then you can find the blue square appear
+5.	Double Click Scenes -> Baseball, then you can find the blue square appear  
 ![scenes](image/scenes.png)
-6.	Choose Game -> Display2
+6.	Choose Game -> Display2  
 ![display2](image/display2.png)
-7.	Click Run ! (You can click `Maximize` to maximize the game window, or Click `Maximize On Play` before Click Run)
+7.	Click Run ! (You can click `Maximize` to maximize the game window, or Click `Maximize On Play` before Click Run)  
 ![run_max](image/run_max.png)
