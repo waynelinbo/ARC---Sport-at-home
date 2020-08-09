@@ -55,7 +55,14 @@ The Software requirements are as below:
 1.	Open `Unity Hub` to create a new 3D repository
 ![Unity_hub](image/Unity_hub.png)
 2.	Click Assets -> Import Package -> Custom Package
+![Unity_package](image/Unity_package.png)
 3.	Open Sport_at_home.unitypackage
-4.	Double Click Scenes -> Baseball, then you can find the blue square appear
-5.	Choose Game -> Display2
-6.	Click Run ! (You can click `Maximize` to maximize the game window, or Click `Maximize On Play` before Click Run)
+![Import_package](image/Import_package.png)
+4.	Import All
+![Import_all](image/Import_all.png)
+5.	Double Click Scenes -> Baseball, then you can find the blue square appear
+![scenes](image/scenes.png)
+6.	Choose Game -> Display2
+![display2](image/display2.png)
+7.	Click Run ! (You can click `Maximize` to maximize the game window, or Click `Maximize On Play` before Click Run)
+![run_max](image/run_max.png)
