@@ -101,7 +101,7 @@ At the beginning, it will display 178 km/h
 The 9 grids in the middle is 9 possible positions of the ball.  
 The Yellow mark is the position of this pitch, it will be changed followed by the next ball pitched immediately.  
 If you set `random` it will first display at middle, then changed followed by the next ball pitched immediately.  
-If you set `1~9` it will display at the gird you choose immediately.  
+If you set `1~9` it will display at the gird you set immediately.  
 At the beginning, because the ball position is random, it will display at middle.  
   
 #### Ball pitch setting
