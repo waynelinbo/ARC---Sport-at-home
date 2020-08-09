@@ -72,3 +72,7 @@ The Software requirements are as below:
 ![display2](images/display2.png)
 7.	Click Run ! (You can click `Maximize` to maximize the game window, or Click `Maximize On Play` before Click Run)  
 ![run_max](images/run_max.png)
+
+## Problem
+IF you have problem like below image, please check which `COM?` is your ARC connecting with PC, then Double Click Script -> adforce to revised to your `COM?`  
+![problem_COM3.png](images/problem_COM3.png)
