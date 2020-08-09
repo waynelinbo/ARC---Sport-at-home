@@ -55,8 +55,8 @@ The Software requirements are as below:
 3.	Connecting Kinect V2 & PC, then you can test it by `Kinect for Windows SDK 2.0` to confirm whether it works fine  
 ![Kinect_v2_sdk](images/Kinect_v2_sdk.png)
 ### Download Source Code
-1.	Installing `Unity_package` from github
-2.	Installing `embARC` from github
+1.	Downloading `Unity_package` from github
+2.	Downloading `embARC` from github
 ### Run Code
 #### embARC
 1.	Use `Visual Code` to open embARC folder
