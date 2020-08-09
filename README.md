@@ -56,14 +56,15 @@ The Software requirements are as below:
 ![Kinect_v2_sdk](images/Kinect_v2_sdk.png)
 ### Download Source Code
 1.	Downloading `Unity_package` from [here](https://drive.google.com/drive/folders/1N7AXqAA_fNJt_3JR1my2e3aJU0aEI18h)
-2.	Downloading `embARC` from github
+2.	Downloading `embARC/DSpotter_Sport_at_home` from github
 ### Run Code
 #### embARC
-1.	Use `Visual Code` to open embARC folder
-2.	Let `terminal` go to `DSpotter_sample`
-3.	Key in `gmake TOOLCHAIN=mw BOARD=iotdk DIG_NAME=IoTDK gui`
-4.	Click `ok` and wait a second
-5.	Click `run`
+1.	Put `DSpotter_Sport_at_home` into embarc_osp
+2.	Use `Visual Code` to open embarc_osp folder
+3.	Let `terminal` go to `DSpotter_Sport_at_home`
+4.	Key in `gmake TOOLCHAIN=mw BOARD=iotdk DIG_NAME=IoTDK gui`
+5.	Click `ok` and wait a second
+6.	Click `run`
 #### Unity
 1.	Open `Unity Hub` to create a new 3D repository  
 ![Unity_hub](images/Unity_hub.png)
