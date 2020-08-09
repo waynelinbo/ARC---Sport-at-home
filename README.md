@@ -60,7 +60,7 @@ The Software requirements are as below:
 ### Run Code
 #### embARC
 1.	Use `Visual Code` to open embARC folder
-2.	Let `terminal` go to DSpotter_sample
+2.	Let `terminal` go to `DSpotter_sample`
 3.	Key in `gmake TOOLCHAIN=mw BOARD=iotdk DIG_NAME=IoTDK gui`
 4.	Click `ok` and wait a second
 5.	Click `run`
