@@ -81,7 +81,7 @@ The Software requirements are as below:
 ![run_max](images/run_max.png)
 
 ### How to play?
-![game_screen](image/game_screen.png)
+![game_screen](images/game_screen.png)
 The list on the left is the instructions that you can release, you can use keyboard or voice to release it.  
 Example :  
 At the beginning,  
