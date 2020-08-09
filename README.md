@@ -11,7 +11,7 @@
 This project tited **Sport , at home** is designed to allow ball players to practice indoors during the Coronavirus Outbreak which combines ARC IOTDK to implemen voice recognition to operate the game interface , KINECT V2 to detect motions and UNITY to create a simple 3D baseball game.
 
 
-### System Architecture
+## System Architecture
 ![1](image/system_architecture.png)  
 ## Hardware and Software Setup
 ### Hardware Setup
