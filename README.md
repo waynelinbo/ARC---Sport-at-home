@@ -12,6 +12,7 @@
 	* [Run Code](#run-code)
 		* [embARC](#embarc)
 		* [Unity](#unity)
+* [Problem](#problem)
 
 ## Introduction
 This project tited **Sport , at home** is designed to allow batters to practice indoors during the Coronavirus Outbreak which combines ARC IOTDK to implement voice recognition to operate the game interface , KINECT V2 to detect batters' motions and UNITY to create a simple 3D baseball game.
@@ -57,7 +58,7 @@ The Software requirements are as below:
 3.	Key in `gmake TOOLCHAIN=mw BOARD=iotdk DIG_NAME=IoTDK gui`
 4.	Click `ok` and wait a second
 5.	Click `run`
-####  Unity
+#### Unity
 1.	Open `Unity Hub` to create a new 3D repository  
 ![Unity_hub](images/Unity_hub.png)
 2.	Click Assets -> Import Package -> Custom Package  
