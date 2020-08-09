@@ -1,7 +1,7 @@
 # ARC---Sport-at-home
 
 * [Introduction](#introduction)
-	* [System Architecture](#system-architecture)
+* [System Architecture](#system-architecture)
 * [Hardware and Software Setup](#hardware-and-software-setup)
 	* [Hardware Setup](#hardware-setup)
 	* [Software Setup](#software-setup)
