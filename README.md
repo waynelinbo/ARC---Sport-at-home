@@ -20,7 +20,7 @@
 * [Problem](#problem)
 
 ## Introduction
-This project tited **Sport , at home** is designed to allow batters to practice indoors during the Coronavirus Outbreak which combines ARC IOTDK to implement voice recognition to operate the game interface , KINECT V2 to detect batters' motions and UNITY to create a simple 3D baseball game.
+This project titled **Sport , at home** is designed to allow batters to practice indoors during the Coronavirus Outbreak which combines ARC IOTDK to implement voice recognition to operate the game interface , KINECT V2 to detect batters' motions and UNITY to create a simple 3D baseball game.
 ## Demo Link 
 [Click here](https://v.youku.com/v_show/id_XNDc5MDEwMjUwNA==.html)  
 
@@ -81,13 +81,14 @@ The Software requirements are as below:
 ![run_max](images/run_max.png)
 
 ### How to play?
+![game_screen](image/game_screen.png)
 The list on the left is the instructions that you can release, you can use keyboard or voice to release it.  
 Example :  
 At the beginning,  
 you can key in `z` or say `球種設定` in Chinese to `set the ball pitch`  
 you can key in `x` or say `球速設定` in Chinese to `set the ball velocity`  
 you can key in `c` or say `位置設定` in Chinese to `set the ball position`  
-you can key in `space` or say `開始投球` in Chinese to `let ball be throwed to you`  
+you can key in `space` or say `開始投球` in Chinese to `let the ball be thrown to you`  
   
 The info which is white on the Bottom Right Corner is the setting you set now.  
 At the beginning,  
@@ -95,12 +96,12 @@ the ball pitch is Straight ball
 the ball velocity is random  
 the ball position is random  
   
-The velocity which is red on the Upper Right Corner is the velocity of this pitch, it will be changed followed by the next ball pitched immediately.  
+The velocity which is red on the Upper Right Corner is the velocity of this pitch, it will be changed immediately when the next ball be pitched.  
 At the beginning, it will display 178 km/h  
   
 The 9 grids in the middle is 9 possible positions of the ball.  
-The Yellow mark is the position of this pitch, it will be changed followed by the next ball pitched immediately.  
-If you set `random` it will first display at middle, then changed followed by the next ball pitched immediately.  
+The Yellow mark is the position of this pitch, it will be changed immediately when the next ball be pitched.  
+If you set `random` it will first display at middle, then be changed immediately when the next ball be pitched.  
 If you set `1~9` it will display at the gird you set immediately.  
 At the beginning, because the ball position is random, it will display at middle.  
   
