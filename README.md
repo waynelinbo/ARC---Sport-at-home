@@ -19,13 +19,14 @@ The Hardware requirements are as below:
 - DesignWare ARC IoT Development Kit
 - inmp-441(voice sensor)
 - KINECT V2(xbox one)
-- computer Components(Resistors, LEDs)
+- PC
 
 ### Software Setup
 The Software requirements are as below:
 - embARC Open Source Platform
 - MetaWare Development Toolkit & GNU Toolchain
 - DSpotter(Cyberon)
-- Unity
+- Unity + Kinect plugin
+- Kinect for Windows SDK 2.0
 
 ## User Manual
