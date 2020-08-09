@@ -12,7 +12,7 @@ This project tited **Sport , at home** is designed to allow ball players to prac
 
 
 ### System Architecture
-![1](image/system_architecture.PNG)  
+![1](image/system_architecture.png)  
 ## Hardware and Software Setup
 ### Hardware Setup
 The Hardware requirements are as below:
