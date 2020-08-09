@@ -106,14 +106,14 @@ If you set `1~9` it will be displayed at the gird you set immediately.
 At the beginning, because the ball position is random, it will be displayed at middle.  
   
 #### Ball pitch setting
-You can set ball velocity by keying in `z` or say `球種設定` in Chinese  
+You can set ball pitch by keying in `z` or say `球種設定` in Chinese  
 Now, we only have Straight ball  
 You can key in `1` or say `設定直球` in Chinese to set `Straight ball`  
 You can key in `q` or say `取消設定` in Chinese to `quit setting`  
 Initially, it is set `Straight ball`  
   
 #### Ball velocity setting
-You can set ball pitch by keying in `x` or say `球速設定` in Chinese  
+You can set ball velocity by keying in `x` or say `球速設定` in Chinese  
 We totally have 10 segments can be chose  
 You can key in `0` or say `一百公里` in Chinese to set velocity between `100 ~ 109 km/h`  
 You can key in `1` or say `一百一十` in Chinese to set velocity between `110 ~ 119 km/h`  
