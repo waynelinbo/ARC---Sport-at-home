@@ -100,10 +100,10 @@ The velocity which is red on the Upper Right Corner is the velocity of this pitc
 At the beginning, it will display 178 km/h  
   
 The 9 grids in the middle is 9 possible positions of the ball.  
-The Yellow mark is the position of this pitch, it will be changed immediately when the next ball be pitched.  
-If you set `random` it will first display at middle, then be changed immediately when the next ball be pitched.  
-If you set `1~9` it will display at the gird you set immediately.  
-At the beginning, because the ball position is random, it will display at middle.  
+The **yellow mark** is the position of this pitch, it will be changed immediately when the next ball be pitched.  
+If you set `random` it will first be displayed at middle, then be changed immediately when the next ball be pitched.  
+If you set `1~9` it will be displayed at the gird you set immediately.  
+At the beginning, because the ball position is random, it will be displayed at middle.  
   
 #### Ball pitch setting
 You can set ball velocity by keying in `z` or say `球種設定` in Chinese  
