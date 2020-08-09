@@ -146,5 +146,5 @@ You can key in `q` or say `取消設定` in Chinese to `quit setting`
 Initially, it is set `random`  
   
 ## Problem
-IF you have problem like below image, please check which `COM?` is your ARC connecting with PC, then Double Click Script -> adforce to revise `COM3` to your `COM?`  
+If you have problem like below image, please check which `COM?` is your ARC connecting with PC, then double click Script -> adforce to revise `COM3` to your `COM?`  
 ![problem_COM3.png](images/problem_COM3.png)
